@@ -14,4 +14,5 @@ while True:
     else:
         menuList.append([menuName, systemMenu[menuName]])
 
-showBill()    
+showBill()   
+print('Thank you for using our service.') 
